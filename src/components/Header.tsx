@@ -9,7 +9,7 @@ const Header: React.FC = () => {
           <div className="flex items-center justify-center w-10 h-10 bg-blue-500 rounded-lg mr-3">
             <Mic size={20} />
           </div>
-          <h1 className="text-xl md:text-2xl font-bold">AudioQuality</h1>
+          <h1 className="text-xl md:text-2xl font-bold">Mic Validation</h1>
         </div>
         <p className="text-center md:text-left text-gray-400 mt-2 text-sm md:text-base max-w-xl">
           Record, analyze, and improve your audio quality with professional insights

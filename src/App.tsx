@@ -34,7 +34,7 @@ function App() {
         <div className="container mx-auto">
           <div className="text-center mb-8">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-4">
-              Record Your Audio
+              Record Your Audio! :D
             </h2>
             <p className="text-gray-600 max-w-xl mx-auto">
               Speak into your microphone to record audio. We'll analyze the quality and 
